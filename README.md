@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Chinmay!  
 
-![Banner](https://via.placeholder.com/1200x400/282828/FFFFFF?text=Welcome+to+My+GitHub+Profile!)  
 
 ### 🌟 About Me  
 - 🎓 Currently diving deep into **MongoDB** and backend development.  
@@ -43,16 +42,6 @@
 
 ---
 
-### 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/chinmay1635)  
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?logo=github&logoColor=white&style=flat-square)](https://github.com/Chinmay1635)  
-
----
-
-### ✨ Fun Fact  
-> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it!"  
-
----
 
 
 
