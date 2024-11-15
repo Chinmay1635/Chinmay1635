@@ -9,7 +9,7 @@
 
 ---
 
-                                                                    ![Visitor Count](https://komarev.com/ghpvc/?username=Chinmay1635&color=blue&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Chinmay1635&color=blue&style=flat-square)  
 
 ---
 
