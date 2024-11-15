@@ -8,9 +8,9 @@
 - 🌱 Always eager to learn and improve every day.  
 
 ---
-<p align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=Chinmay1635&color=blue&style=flat-square)  
-</p>
+
+                                                                    ![Visitor Count](https://komarev.com/ghpvc/?username=Chinmay1635&color=blue&style=flat-square)  
+
 ---
 
 ### 🛠️ Tech Stack  
