@@ -48,8 +48,7 @@
 ---
 
 ### 🏅 Holopin Badges
-[![An image of @chinmaykulkarni's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@chinmay1635#)](https://www.holopin.io/@chinmay1635#)
-
+[![An image of @chinmay1635's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chinmay1635)](https://holopin.io/@chinmay1635)
 ---
 
 ### 🌐 Connect With Me
