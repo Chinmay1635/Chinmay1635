@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 - 💼 Full-stack developer passionate about building scalable web apps and real-time systems.  
 - ⚙️ Specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js) & **Next.js** for modern web experiences.  
-- 🧠 Currently diving deeper into **WebSockets, Security, and Go (Golang)** for backend efficiency.  
+- 🧠 Currently diving deeper into **WebSockets, Security** for backend efficiency.  
 - ☁️ Exploring **cloud technologies** and **system design** for production-grade deployments.  
 - 🎯 Goal: Build secure, performant SaaS products and contribute to open source.  
 
@@ -28,7 +28,6 @@
 **Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Database & Tools:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -65,6 +64,3 @@
 </p>
 
 ---
-
-### ⚡ Fun Fact
-> “Code, Learn, Break, Fix, Repeat. That’s how innovation happens.” 🚀
