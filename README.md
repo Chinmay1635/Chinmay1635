@@ -38,13 +38,8 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay1635&show_icons=true&theme=radical" alt="Chinmay's GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinmay1635&theme=radical" alt="streak stats" height="180em"/>
-</p>
 
----
+
 
 ### 🏅 Holopin Badges
 [![An image of @chinmay1635's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chinmay1635)](https://holopin.io/@chinmay1635)
